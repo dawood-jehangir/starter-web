@@ -16,4 +16,4 @@ GIT.TRAINING
 Fork this repository and then issue pull requests for review.
 
 ## Newaddition
-rebasing example in master branch
+rebasing example in master branch, more changes from myfeature branch

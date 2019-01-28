@@ -11,3 +11,6 @@ GIT.TRAINING
 
 ## Contribution
 Fork this repository and then issue pull requests for review.
+
+## Newaddition
+rebasing example in master branch

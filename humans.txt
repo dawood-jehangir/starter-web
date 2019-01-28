@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dawood Jehangir 	dawood.jehangir@techlogix.com
 
 # THANKS
 
